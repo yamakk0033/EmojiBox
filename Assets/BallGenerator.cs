@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class BallGenerator : MonoBehaviour {
 
@@ -16,8 +14,9 @@ public class BallGenerator : MonoBehaviour {
         if(Input.GetMouseButtonDown(0))
         {
             GameObject go = Instantiate(ballPrefab) as GameObject;
-            //go.transform.position = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            go.transform.position = new Vector3(0, 0, 0);
+            Vector3 vec3 = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            vec3.z = 0.0f;
+            go.transform.position = vec3;
         }
     }
 }

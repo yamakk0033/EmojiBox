@@ -106,10 +106,10 @@ TextureImporter:
       name: emoji_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 2
-        width: 93
-        height: 93
+        x: 8
+        y: 9
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,7 +117,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30c574d170d9b0b458d79c0c5b601f75
+      spriteID: 6c09d90ffac48c6459491b27bb6bfff0
       vertices: []
       indices: 
       edges: []
@@ -126,10 +126,10 @@ TextureImporter:
       name: emoji_1
       rect:
         serializedVersion: 2
-        x: 119
-        y: 2
-        width: 93
-        height: 93
+        x: 122
+        y: 9
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,7 +137,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07456406992ca834b872d233896772cd
+      spriteID: f45b4469a51231540bda62f93db58db9
       vertices: []
       indices: 
       edges: []
@@ -146,10 +146,10 @@ TextureImporter:
       name: emoji_2
       rect:
         serializedVersion: 2
-        x: 231
-        y: 5
-        width: 89
-        height: 88
+        x: 236
+        y: 9
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,7 +157,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa355ffb38145a041a7f03e4e3529f7f
+      spriteID: e01801097104dd44884184f67535424b
       vertices: []
       indices: 
       edges: []
@@ -166,10 +166,10 @@ TextureImporter:
       name: emoji_3
       rect:
         serializedVersion: 2
-        x: 343
-        y: 2
-        width: 93
-        height: 93
+        x: 351
+        y: 9
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,7 +177,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c9d107d4d70daa41968d5868c1ffdd2
+      spriteID: cea349572d7b6f348bb7f311510cb317
       vertices: []
       indices: 
       edges: []
@@ -186,10 +186,10 @@ TextureImporter:
       name: emoji_4
       rect:
         serializedVersion: 2
-        x: 455
-        y: 2
-        width: 93
-        height: 93
+        x: 465
+        y: 9
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,7 +197,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16bf5c4196eb21b49926279bdfb94541
+      spriteID: d5056edde57a9624ab883d6e9b0ee84c
       vertices: []
       indices: 
       edges: []
@@ -206,10 +206,10 @@ TextureImporter:
       name: emoji_5
       rect:
         serializedVersion: 2
-        x: 567
-        y: 2
-        width: 93
-        height: 93
+        x: 580
+        y: 9
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,7 +217,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 888a7f2e65c91fe48814a90971bbad47
+      spriteID: e9728b38afcf0514d99f90dd2674c4df
       vertices: []
       indices: 
       edges: []
@@ -226,10 +226,10 @@ TextureImporter:
       name: emoji_6
       rect:
         serializedVersion: 2
-        x: 679
-        y: 2
-        width: 93
-        height: 93
+        x: 694
+        y: 9
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,7 +237,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5154b0180454ca644b3b54d17c75647e
+      spriteID: dbfd73cb4d7c3ba4e9d06d66ad2e44a2
       vertices: []
       indices: 
       edges: []
@@ -246,10 +246,10 @@ TextureImporter:
       name: emoji_7
       rect:
         serializedVersion: 2
-        x: 791
-        y: 2
-        width: 93
-        height: 93
+        x: 809
+        y: 9
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,7 +257,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 406b3afe3f952474cb179f45b71ad049
+      spriteID: f2d044a3c13e73946bb0aee613b9aef0
       vertices: []
       indices: 
       edges: []
@@ -266,10 +266,10 @@ TextureImporter:
       name: emoji_8
       rect:
         serializedVersion: 2
-        x: 904
-        y: 5
-        width: 87
-        height: 87
+        x: 923
+        y: 9
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,7 +277,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a124f05273b5db4781fb90b6e0815a7
+      spriteID: f45aa4d60ea82094ba7e4fd8551d2baa
       vertices: []
       indices: 
       edges: []
@@ -286,10 +286,10 @@ TextureImporter:
       name: emoji_9
       rect:
         serializedVersion: 2
-        x: 1010
-        y: 2
-        width: 93
-        height: 93
+        x: 1037
+        y: 9
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,7 +297,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 531dd9eb20118454f876b8082fd92056
+      spriteID: f6c4cd819a4197446b831d7c82356a1f
       vertices: []
       indices: 
       edges: []
@@ -305,7 +305,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 84fb532a1bbf6844f86d66fdae97ffea
+    spriteID: 2d25901912648304aa3680df3c53a119
     vertices: []
     indices: 
     edges: []
